@@ -3,12 +3,12 @@
 {
 "title":"Content 01",
 "source":"01.mp4",
-"image":"https://drive.google.com/thumbnail?id=1N7Fq7OsK5xTUlEc4kSBu6tfUDrSnIyxe&sz=w1000"
+"image":"01.jpg"
 },
 {
 "title":"content 02",
 "source":"02.mp4",
-"image":"https://drive.google.com/thumbnail?id=1aTBsCj7Gw08keKQE0C40RGAqSlKz0_Su&sz=w1000"
+"image":"02.jpg"
 }
 ]
 }
