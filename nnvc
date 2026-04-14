@@ -3,12 +3,12 @@
 {
 "title":"Content 01",
 "source":"01.mp4",
-"image":"01.jpg"
+"image":"/c-img/01.jpg"
 },
 {
 "title":"content 02",
 "source":"02.mp4",
-"image":"02.jpg"
+"image":"/c-img/02.jpg"
 }
 ]
 }
