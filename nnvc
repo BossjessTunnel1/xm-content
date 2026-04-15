@@ -3,22 +3,22 @@
 {
 "title":"RED VD 01",
 "source":"01.mp4",
-"image":"https://raw.githubusercontent.com/BossjessTunnel1/xm-content/refs/heads/main/01.jpg"
+"image":"./imgs/01.jpg"
 },
 {
 "title":"RED VD 02",
 "source":"02.mp4",
-"image":"https://raw.githubusercontent.com/BossjessTunnel1/xm-content/refs/heads/main/02.jpg"
+"image":"./imgs/02.jpg"
 },
 {
 "title":"RED VD 03",
 "source":"03.mp4",
-"image":"https://raw.githubusercontent.com/BossjessTunnel1/xm-content/refs/heads/main/03.jpg"
+"image":"./imgs/03.jpg"
 },
 {
 "title":"RED VD 04",
 "source":"04.mp4",
-"image":"https://raw.githubusercontent.com/BossjessTunnel1/xm-content/refs/heads/main/04.jpg"
+"image":"./imgs/04.jpg"
 }
 ]
 }
