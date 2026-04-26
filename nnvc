@@ -5,20 +5,5 @@
 "source":"01.mp4",
 "image":"./imgs/01.jpg"
 },
-{
-"title":"RED VD 02",
-"source":"02.mp4",
-"image":"./imgs/02.jpg"
-},
-{
-"title":"RED VD 03",
-"source":"03.mp4",
-"image":"./imgs/03.jpg"
-},
-{
-"title":"RED VD 04",
-"source":"04.mp4",
-"image":"./imgs/04.jpg"
-}
 ]
 }
